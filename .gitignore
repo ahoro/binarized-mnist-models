@@ -4,4 +4,4 @@ test.amat
 train.npy
 valid.npy
 test.npy
-*.ipnyb_checkpoints
+.ipynb_checkpoints
